@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Vaibhav Malkoti</h1>
 <h3 align="center">Full Stack MERN Developer | Computer Science Student | DSA Enthusiast</h3>
 
@@ -171,4 +171,4 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:58A6FF,100:1F6FEB&section=footer"/>
-```
+
